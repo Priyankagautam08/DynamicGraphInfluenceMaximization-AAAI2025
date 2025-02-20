@@ -34,8 +34,8 @@ This research is a collaboration between **Kansas State University** and **Pacif
 | **Mahantesh Halappanavar**   | Pacific Northwest National Laboratory     | [Google Scholar](https://scholar.google.com/citations?user=E4Wqxq8AAAAJ&hl=en) |
 
 ## 🏛 Research Lab
-This research is conducted as part of the Cyber-Physical Systems and Wireless Networking (CPSWIN) Lab at Kansas State University.
-🔗 Learn more about our lab **[Cyber-Physical Systems and Wireless Networking (CPSWIN) Group](https://ece.k-state.edu/research/communications/cpswin/)** at **Kansas State University**
+- This research is conducted as part of the Cyber-Physical Systems and Wireless Networking (CPSWIN) Lab at Kansas State University.
+- 🔗 Learn more about our lab **[Cyber-Physical Systems and Wireless Networking (CPSWIN) Group](https://ece.k-state.edu/research/communications/cpswin/)** at **Kansas State University**
 
 ## 🙏 Acknowledgments
 This work is supported by the National Science Foundation (NSF) under Award No. OIA-2148878, with matching support from the State of Kansas through the Kansas Board of Regents.
