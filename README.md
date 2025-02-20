@@ -12,7 +12,7 @@ This repository contains the **code, datasets, and paper** associated with our r
 
 ## 🚀 Key Features  
 - **Dynamic Network Adaptability:** Handles evolving structures over time.  
-- **Efficient Candidate Node Selection:** Uses **Graph Neural Networks (GNNs)** to predict influential nodes.  
+- **Efficient Candidate Node Selection:** Uses **Graph Neural Networks (GNNs) and BiLSTM model** to predict candidate influential nodes.  
 - **Faster Computation:** Achieves **2× speedup** over traditional **Greedy algorithms** while maintaining influence spread.  
 - **Scalability:** Works on both **small and large-scale networks** (320 – 11,492 nodes).
   
@@ -35,7 +35,7 @@ This research is a collaboration between **Kansas State University** and **Pacif
 
 ## 🏛 Research Lab
 This research is conducted as part of the Cyber-Physical Systems and Wireless Networking (CPSWIN) Lab at Kansas State University.
-🔗 Learn more about our lab [CPSWIN Group]([https://scholar.google.com/]([https://scholar.google.com/citations?user=E4Wqxq8AAAAJ&hl=en)](https://ece.k-state.edu/research/communications/cpswin/)) 
+🔗 Learn more about our lab **[Cyber-Physical Systems and Wireless Networking (CPSWIN) Group](https://ece.k-state.edu/research/communications/cpswin/)** at **Kansas State University**
 
 ## 🙏 Acknowledgments
 This work is supported by the National Science Foundation (NSF) under Award No. OIA-2148878, with matching support from the State of Kansas through the Kansas Board of Regents.
