@@ -21,12 +21,6 @@ This repository contains the **code, datasets, and paper** associated with our r
 - **Hardware:** Experiments conducted on **Intel i9-12900K & NVIDIA RTX 3090 GPU**.  
 - **Evaluation Metrics:** Accuracy, computational efficiency, and influence spread.  
 
-## 🛠 Installation & Setup  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/YourRepoHere/DynamicGraphInfluenceMaximization-AAAI2025.git
-cd DynamicGraphInfluenceMaximization-AAAI2025
-pip install -r requirements.txt
 
 ## 🤝 Contributors  
 This research is a collaboration between **Kansas State University** and **Pacific Northwest National Laboratory (PNNL)**.  
@@ -39,3 +33,9 @@ This research is a collaboration between **Kansas State University** and **Pacif
 | **S M Ferdous**              | Pacific Northwest National Laboratory     | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=pqbWrO0AAAAJ&hl=en)) |
 | **Mahantesh Halappanavar**   | Pacific Northwest National Laboratory     | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=E4Wqxq8AAAAJ&hl=en)) |
 
+## 🛠 Installation & Setup  
+Clone the repository and install dependencies:  
+```bash
+git clone https://github.com/YourRepoHere/DynamicGraphInfluenceMaximization-AAAI2025.git
+cd DynamicGraphInfluenceMaximization-AAAI2025
+pip install -r requirements.txt
