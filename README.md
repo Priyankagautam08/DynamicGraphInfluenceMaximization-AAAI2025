@@ -53,7 +53,7 @@ I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University, Kansas, 
 
 🔗 **[GitHub](https://github.com/Priyankagautam08)**  
 💼 **[LinkedIn](https://www.linkedin.com/in/priyankagautam08/)**  
-📧 **Email:** [priyankagautam099@gmail.com](mailto:priyankagautam099@gmail.com)  
+📧 **Email:** [priyankagautam@ksu.edu](mailto:priyankagautam@ksu.edu)  
 📞 **Phone:** [+1 785-317-8301](tel:+17853178301)  
 
 
