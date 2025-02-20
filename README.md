@@ -44,6 +44,19 @@ Additionally, this research is supported by the U.S. Department of Energy (DOE) 
 
 We appreciate the support from Kansas State University and PNNL, as well as our collaborators who contributed valuable insights to this work.
 
+## 👩‍💻 About Me  
+
+I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University, Kansas, USA**. My research focuses on **graph-theoretic frameworks** for enhancing resilience and developing **adaptive strategies for dynamic networks**. I specialize in **machine learning, data visualization, and network optimization**, transforming complex data into **strategic insights** for real-world applications.  
+
+📍 Kansas, United States  
+🌐 **Portfolio:** [priyankagautam08.github.io/portfolio](https://priyankagautam08.github.io/portfolio/)  
+
+🔗 **[GitHub](https://github.com/Priyankagautam08)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/priyankagautam08/)**  
+📧 **Email:** [priyankagautam099@gmail.com](mailto:priyankagautam099@gmail.com)  
+📞 **Phone:** [+1 785-317-8301](tel:+17853178301)  
+
+
 
 ## 🛠 Installation & Setup
 Clone the repository and install dependencies:  
