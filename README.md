@@ -35,7 +35,7 @@ This research is a collaboration between **Kansas State University** and **Pacif
 
 ## 🏛 Research Lab
 This research is conducted as part of the Cyber-Physical Systems and Wireless Networking (CPSWIN) Lab at Kansas State University.
-🔗 Learn more about our lab
+🔗 Learn more about our lab [CPSWIN Group]([https://scholar.google.com/]([https://scholar.google.com/citations?user=E4Wqxq8AAAAJ&hl=en)](https://ece.k-state.edu/research/communications/cpswin/)) 
 
 ## 🙏 Acknowledgments
 This work is supported by the National Science Foundation (NSF) under Award No. OIA-2148878, with matching support from the State of Kansas through the Kansas Board of Regents.
