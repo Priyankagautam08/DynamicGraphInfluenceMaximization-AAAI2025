@@ -5,7 +5,17 @@ This repository contains the **code, datasets, and paper** associated with our r
 ## 🔍 Overview  
 - Influence Maximization (**InfMax**) is a fundamental problem in **network science**, focusing on identifying the most influential nodes in a network.  
 - Traditional approaches assume **static networks**, which is unrealistic for evolving systems (e.g., **social media, traffic, biological networks**).  
-- We propose a **GNN-BiLSTM-based adaptive framework** that efficiently tracks **influential nodes** while reducing computational overhead.  
+- We propose a **GNN-BiLSTM-based adaptive framework** that efficiently tracks **influential nodes** while reducing computational overhead.
+
+**Paper Title:**  
+**"Dynamic Influence Maximization in Evolving Networks using GNN-based Candidate Node Prediction"**  
+
+**Authors:**  
+Priyanka Gautam, Balasubramaniam Natarajan, Sai Munikoti, S M Ferdous, Mahantesh Halappanavar  
+
+## 📝 Abstract  
+In an age where information spreads rapidly across social media, effectively identifying influential nodes in dynamic networks is critical. Traditional influence maximization strategies often fail to keep up with rapidly evolving relationships and structures, leading to missed opportunities and inefficiencies. To address this, we propose a novel learning-based approach integrating Graph Neural Networks (GNNs) with Bidirectional Long Short-Term Memory (BiLSTM) models. This hybrid framework captures both structural and temporal dynamics, enabling accurate prediction of candidate nodes for seed set selection. The bidirectional nature of BiLSTM allows our model to analyze patterns from both past and future network states, ensuring adaptability to changes over time. By dynamically adapting to graph evolution at each time snapshot, our approach improves seed set calculation efficiency, achieving an average of 90\% accuracy in predicting potential seed nodes across diverse networks. This significantly reduces computational overhead by optimizing the number of nodes evaluated for seed selection. Our method is particularly effective in fields like viral marketing and social network analysis, where understanding temporal dynamics is crucial.
+
 
 ## 📜 Paper  
 📄 **[Download Full Paper](https://github.com/Priyankagautam08/DynamicGraphInfluenceMaximization-AAAI2025/blob/main/AAAI25_Dynamic_Infmax.pdf)**  
