@@ -27,11 +27,11 @@ This research is a collaboration between **Kansas State University** and **Pacif
 
 | Contributor                  | Affiliation                                | Google Scholar |
 |------------------------------|--------------------------------------------|----------------|
-| **Priyanka Gautam**          | Kansas State University                   | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=7uzapiUAAAAJ&hl=en)) |
-| **Balasubramaniam Natarajan**| Kansas State University                   | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=ePCK5e8AAAAJ&hl=en)) |
-| **Sai Munikoti**             | Pacific Northwest National Laboratory     | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=2qzs41QAAAAJ&hl=en)) |
-| **S M Ferdous**              | Pacific Northwest National Laboratory     | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=pqbWrO0AAAAJ&hl=en)) |
-| **Mahantesh Halappanavar**   | Pacific Northwest National Laboratory     | [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=E4Wqxq8AAAAJ&hl=en)) |
+| **Priyanka Gautam**          | Kansas State University                   | [Google Scholar](https://scholar.google.com/citations?user=7uzapiUAAAAJ&hl=en) |
+| **Balasubramaniam Natarajan**| Kansas State University                   | [Google Scholar](https://scholar.google.com/citations?user=ePCK5e8AAAAJ&hl=en) |
+| **Sai Munikoti**             | Pacific Northwest National Laboratory     | [Google Scholar](https://scholar.google.com/citations?user=2qzs41QAAAAJ&hl=en) |
+| **S M Ferdous**              | Pacific Northwest National Laboratory     | [Google Scholar](https://scholar.google.com/citations?user=pqbWrO0AAAAJ&hl=en) |
+| **Mahantesh Halappanavar**   | Pacific Northwest National Laboratory     | [Google Scholar](https://scholar.google.com/citations?user=E4Wqxq8AAAAJ&hl=en) |
 
 ## 🏛 Research Lab
 This research is conducted as part of the Cyber-Physical Systems and Wireless Networking (CPSWIN) Lab at Kansas State University.
