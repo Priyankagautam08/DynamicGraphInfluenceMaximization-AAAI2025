@@ -1,0 +1,7 @@
+torch
+torchvision
+dgl
+networkx
+numpy
+scikit-learn
+pickle5
